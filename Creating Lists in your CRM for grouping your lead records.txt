@@ -1,0 +1,23 @@
+List Creation:
+
+Use lists to organize & group leads better
+Your Lists are logical collections of your leadsprospects that make sense for your company and facilitate simple management.
+
+Using lists in HelloLeads, you may categorize your leads in a useful way. To arrange leads by source, geography, or timelines, utilize lists.
+
+In HelloLeads mobile app, you can create list by:
+1. Tap on Manage List
+2. The All lists page will open up – The default list would be Sample Leads. Tap on the ‘+’ at the bottom of the screen.
+3. Enter the List name and choose what task you would like to execute for that list. There are 2 options
+a. Send a greeting email
+b. Send a Business Card -  It can be enabled only if the Greeting Email option is enable
+Create Lists
+
+In HelloLeads Web App, you can create list by:
+1. Click on Lists Icon on the left side menu (below the Dashboard Icon)
+2. Click on Create List button on the top left corner of the screen
+3. Enter the List Name
+4. Choose the action that you would like to execute for the leads you add in the list.
+a. Send a greeting Email
+b. Send a Business Card - You can digitally share your business cards or visiting cards with the leads you are adding to HelloLeads and hence providing a way for your lead to contact you. (It can be enabled only if the Greeting Email option is enabled)
+

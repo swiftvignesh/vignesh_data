@@ -1,0 +1,7 @@
+Add from WhatsApp Log:
+
+This captures all new WhatsApp enquiries as Leads
+Tap’Add from WhatsApp Logs’ after clicking ‘+’ icon in the home page
+Enable Notification Access
+Select a method and Preferred List
+WhatsApp Enquiry saved as Lead
